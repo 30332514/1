@@ -156,11 +156,11 @@ http://45.71.252.67:8000/play/a0nv/index.m3u8
 #EXTINF:-1 tvg-id="GOLPERU" tvg-logo="https://i.postimg.cc/Jz06rGsf/GOL-PERU.jpg" group-title="Deportivos" tvg-name="GOLPERU",GOLPERU
 http://190.116.90.43:8000/play/a012
 
-#EXTINF:-1 tvg-id="Movistar Deportes" tvg-logo="https://i.postimg.cc/kGCYqsSs/Movistar-Deportes.png" group-title="Deportivos" tvg-name="Movistar Deportes",Movistar Deportes
-http://190.116.90.43:8000/play/a00x
-
 #EXTINF:-1 tvg-id="LIGA 1 MAX" tvg-logo="https://i.postimg.cc/FR0mTPmV/LIGA-1-MAX.jpg" group-title="Deportivos" tvg-name="LIGA 1 MAX",LIGA 1 MAX
 http://209.45.81.84:8000/play/a00c
+
+#EXTINF:-1 tvg-id="Movistar Deportes" tvg-logo="https://i.postimg.cc/kGCYqsSs/Movistar-Deportes.png" group-title="Deportivos" tvg-name="Movistar Deportes",Movistar Deportes
+http://190.116.90.43:8000/play/a00x
 
 #EXTINF:-1 tvg-id="Liga de Campeones" tvg-logo="https://i.postimg.cc/xd530P8C/Liga-de-Campeones.png" group-title="Deportivos" tvg-name="Liga de Campeones",Liga de Campeones
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/54531.ts
@@ -338,6 +338,69 @@ http://179.189.222.226:8000/play/ch54
 
 #EXTINF:-1 tvg-id="Mimusica Perú" tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/Logo-Mimusica-Peru-Alpha-AOriginal-e1687136439515-1024x362.png" group-title="Musicales" tvg-name="Mimusica Perú",Mimusica Perú
 http://191.97.60.193:10000/play/a030/index.m3u8
+
+#EXTINF:-1 tvg-id="History Channel" tvg-logo="https://i.postimg.cc/tT01N6Xp/History-Channel.jpg" group-title="Documentales" tvg-name="History Channel",History Channel
+http://190.116.90.43:8000/play/a00c
+
+#EXTINF:-1 tvg-id="History Channel 2" tvg-logo="https://i.postimg.cc/jdkShfXm/History-Channel-2.jpg" group-title="Documentales" tvg-name="History Channel 2",History Channel 2
+http://190.116.90.43:8000/play/a00v
+
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://i.postimg.cc/V69YPxSK/Animal-Planet.png" group-title="Documentales" tvg-name="Animal Planet",Animal Planet
+http://190.116.90.43:8000/play/a00q
+
+#EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://i.postimg.cc/sgNfhtNP/national-geographic.jpg" group-title="Documentales" tvg-name="National Geographic",National Geographic
+http://170.81.240.10:8000/play/a014/index.m3u8
+
+#EXTINF:-1 tvg-id="Nat Geo WILD" tvg-logo="https://i.postimg.cc/Y2mLJtPt/Nat-Geo-WILD.jpg" group-title="Documentales" tvg-name="Nat Geo WILD",Nat Geo WILD
+http://45.5.119.155:8000/play/a0kk/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery" tvg-logo="https://banner2.cleanpng.com/20180605/ecc/kisspng-discovery-channel-television-channel-television-do-5b16766f6e5735.463717211528198767452.jpg" group-title="Documentales" tvg-name="Discovery",Discovery
+http://190.116.90.43:8000/play/a00t
+
+#EXTINF:-1 tvg-id="Discovery ID" tvg-logo="https://i.postimg.cc/sXhnJhsG/Discovery-Channel-THEATHER.png" group-title="Documentales" tvg-name=Discovery ID",Discovery ID
+http://45.5.117.182:8000/play/a0jy/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery THEATHER" tvg-logo="https://i.postimg.cc/sXhnJhsG/Discovery-Channel-THEATHER.png" group-title="Documentales" tvg-name=Discovery THEATHER",Discovery THEATHER
+http://190.116.90.43:8000/play/a00g
+
+#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://www.nicepng.com/png/detail/15-153394_discovery-science-discovery-science-tv-logo.png" group-title="Documentales" tvg-name="Discovery Science",Discovery Science
+http://161.132.194.88:7076/play/a0uo/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png" group-title="Documentales" tvg-name="Discovery Turbo",Discovery Turbo
+http://161.132.194.88:7076/play/a02h/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/245px-World_Discovery_HD_logo.svg.png" group-title="Documentales" tvg-name="Discovery World",Discovery World
+http://161.132.194.88:7076/play/a0sv/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-logo="https://i.postimg.cc/DfYVDf0x/Discovery-Home-Health.jpg" group-title="Generalistas" tvg-name="Discovery Home & Health",Discovery Home & Health
+http://170.81.240.10:8000/play/a01a/index.m3u8
+
+#EXTINF:-1 tvg-id="D película" tvg-logo="https://i.postimg.cc/nzHpKkfM/D-pel-cula.png" group-title="Películas" tvg-name="D película",D película
+http://181.78.85.7:16123/play/ch57
+
+#EXTINF:-1 tvg-id="CINE AR" tvg-logo="https://i.postimg.cc/02WdJpBf/CINEAR.png" group-title="Películas" tvg-name="CINE AR",CINE AR
+https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PLANETATV MOVIE" tvg-logo="https://i.postimg.cc/768bFcJ6/PLANETATV-MOVIE.jpg" group-title="Películas" tvg-name="PLANETATV MOVIE",PLANETATV MOVIE
+https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PLANETATV FAMILY" tvg-logo="https://i.postimg.cc/PxRrQRbK/PLANETATV-FAMILY.jpg" group-title="Películas" tvg-name="PLANETATV FAMILY",PLANETATV FAMILY
+https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EURO CHANNEL" tvg-logo="https://i.postimg.cc/nrHKRwtQ/EURO-Channel.jpg" group-title="Películas" tvg-name="EURO CHANNEL",EURO CHANNEL
+http://45.228.232.219:16000/play/a0kx/index.m3u8
+
+#EXTINF:-1 tvg-id="food network" tvg-logo="https://i.postimg.cc/7LNMQxdX/food-network.jpg" group-title="Películas" tvg-name="food network",food network
+http://177.93.45.155:6143/play/a02l/index.m3u8
+
+#EXTINF:-1 tvg-id="Europa Europa" tvg-logo="https://i.postimg.cc/CLrSCCLq/Europa-Europa.jpg" group-title="Películas" tvg-name="Europa Europa",Europa Europa
+http://45.5.119.155:8000/play/a00u/index.m3u8
+
+#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-logo="https://i.postimg.cc/TYsGHs0r/STAR-CHANNEL.jpg" group-title="Películas" tvg-name="STAR CHANNEL",STAR CHANNEL
+http://190.116.90.43:8000/play/a016
+
+#EXTINF:-1 tvg-id="FX" tvg-logo="https://i.postimg.cc/fLY4PqYM/FX.png" group-title="Películas" tvg-name="FX",FX
+http://190.116.90.43:8000/play/a00j
 
 #EXTINF:-1 tvg-id="A&E" tvg-logo="https://i.postimg.cc/FRhqVQ9X/A-E.png" group-title="Películas" tvg-name="A&E",A&E
 http://170.81.240.10:8000/play/a01j/index.m3u8
