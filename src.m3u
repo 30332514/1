@@ -1,0 +1,151 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Latina tv" tvg-logo="https://i.postimg.cc/J055jRLP/latina.jpg" group-title="Generalistas" tvg-name="Latina TV",Latina TV
+http://190.116.90.43:8000/play/a011
+
+#EXTINF:-1 tvg-id="America TV" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="Generalistas" tvg-name="America TV",America TV
+http://190.116.90.43:8000/play/a010
+
+#EXTINF:-1 tvg-id="Panamericana tv" tvg-logo="https://i.postimg.cc/mr3kLkNX/panamericanatv.jpg" group-title="Generalistas" tvg-name="Panamericana TV",Panamericana TV
+http://190.116.90.43:8000/play/a002
+
+#EXTINF:-1 tvg-id="ATV" tvg-logo="https://i.postimg.cc/1XgtjdbK/atv.jpg" group-title="Generalistas" tvg-name="ATV",ATV
+http://190.116.90.43:8000/play/a005
+
+#EXTINF:-1 tvg-id="La Tele" tvg-logo="https://i.postimg.cc/d0dBBRBW/la-tele.png" group-title="Generalistas" tvg-name="La Tele",La Tele
+http://170.81.240.10:8000/play/a00j/index.m3u8
+
+#EXTINF:-1 tvg-id="Global Televisión" tvg-logo="https://i.postimg.cc/Gh9gshL0/Global-Televisi-n.png" group-title="Generalistas" tvg-name="Global Televisión",Global Televisión
+http://190.116.90.43:8000/play/a006
+
+#EXTINF:-1 tvg-id="TV Perú" tvg-logo="https://i.postimg.cc/Jh85CgGf/TV-Per.png" group-title="Generalistas" tvg-name="TV Perú",TV Perú
+http://190.116.90.43:8000/play/a003
+
+#EXTINF:-1 tvg-id="Cultura 24 TV" tvg-logo="https://i.postimg.cc/c4FgGqy9/cultura24tv.png" group-title="Generalistas" tvg-name="Cultura 24 TV",Cultura 24 TV
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="CANAL N" tvg-logo="https://i.postimg.cc/L63qnBQF/canalN.jpg" group-title="Generalistas" tvg-name="CANAL N",CANAL N
+http://190.116.90.43:8000/play/a004
+
+#EXTINF:-1 tvg-id="RPP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/RPP_TV_-_2017_logo.png" group-title="Generalistas" tvg-name="RPP TV",RPP TV
+http://190.116.90.43:8000/play/a00a
+
+#EXTINF:-1 tvg-id="PBO TV" tvg-logo="https://i.postimg.cc/Pxt2fd3R/PBO.jpg" group-title="Generalistas" tvg-name="PBO TV",PBO TV
+https://ythls.onrender.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
+
+#EXTINF:-1 tvg-id="Exitosa TV" tvg-logo="https://i.postimg.cc/Gm20cgx6/exitosa.jpg" group-title="Generalistas" tvg-name="Exitosa TV",Exitosa TV
+http://191.97.60.193:10000/play/a03c/index.m3u8
+
+#EXTINF:-1 tvg-id="Willax TV" tvg-logo="https://i.postimg.cc/2yyS7wpM/willaxtv.jpg" group-title="Generalistas" tvg-name="Willax TV",Willax TV
+http://191.97.60.193:10000/play/a02j/index.m3u8
+
+#EXTINF:-1 tvg-id="Viva TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PyW6vij-.jpg/175px-PyW6vij-.jpg" group-title="Generalistas" tvg-name="Viva TV",Viva TV
+http://191.97.60.193:10000/play/a00p/index.m3u8
+
+#EXTINF:-1 tvg-id="Conecta2TV" tvg-logo="https://i.imgur.com/cfHaLt2.png" group-title="Generalistas" tvg-name="Conecta2TV",Conecta2TV
+https://servilive.com:3114/live/liveulive.m3u8
+
+#EXTINF:-1 tvg-id="Trivu" tvg-logo="https://i.imgur.com/QrUYjOS.png" group-title="Generalistas" tvg-name="Trivu",Trivu
+https://servilive.com:3244/live/trivutvlive.m3u8
+
+#EXTINF:-1 tvg-id="Movistar Plus" tvg-logo="https://i.postimg.cc/kGK1dPVr/Movistar-Plus.png" group-title="Generalistas" tvg-name="Movistar Plus",Movistar Plus
+http://31.42.185.216:8000/phd2000/YHJ1X74/3328
+
+#EXTINF:-1 tvg-id="PERU MAGICO" tvg-logo="https://i.postimg.cc/mg74SXwZ/PERU-MAGICO.png" group-title="Generalistas" tvg-name="PERU MAGICO",PERU MAGICO
+http://31.42.185.216:8000/phd2000/YHJ1X74/3330
+
+#EXTINF:-1 tvg-id="TV Cosmos" tvg-logo="https://i.postimg.cc/5tcB6Hc8/tvcosmos.jpg" group-title="Generalistas" tvg-name="TV Cosmos",TV Cosmos
+https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w1433474877.m3u8
+
+#EXTINF:-1 tvg-id="SOL TV" tvg-logo="https://i.postimg.cc/vTNP1hCH/soltv.png" group-title="Generalistas" tvg-name="SOL TV",SOL TV
+http://191.97.60.193:10000/play/a03j/index.m3u8
+
+#EXTINF:-1 tvg-id="Oasis RTV" tvg-logo="https://i.postimg.cc/fyxRpYkk/Oasis-RTV.jpg" group-title="Generalistas" tvg-name="Oasis RTV",Oasis RTV
+https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
+
+#EXTINF:-1 tvg-id="Cable Visión Perú" tvg-logo="https://i.postimg.cc/gj7kSZmJ/vnphd.jpg" group-title="Generalistas" tvg-name="Cable Visión Perú",Cable Visión Perú
+https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
+
+#EXTINF:-1 tvg-id="Best TV" tvg-logo="https://i.postimg.cc/L8cRVvGz/Best-TV.jpg" group-title="Generalistas" tvg-name="Best TV",Best TV
+https://mi.godo.net.pe/BesTv-001120000100/tracks-v1a1/mono.m3u8?remote=179.6.166.136&token=e9bdb36903495b3ee6158abf5471a39df263ac4a-532443fa3cd0d963e3bdc7c47f3cc93b-1696049367-1696038567
+
+#EXTINF:-1 tvg-id="Cable Perú TV" tvg-logo="https://i.postimg.cc/CxzR83J2/Cable-Per-TV.jpg" group-title="Generalistas" tvg-name="Cable Perú TV",Cable Perú TV
+https://video2.lhdserver.es/cableperu/live.m3u8
+
+#EXTINF:-1 tvg-id="Latin CABLE" tvg-logo="https://i.postimg.cc/Z5SY4ZSB/Latin-CABLE.png" group-title="Generalistas" tvg-name="Latin CABLE",Latin CABLE
+https://mserver.latincable.net/LatinTV/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal B" tvg-logo="http://core1.hdlatam.tv/media/images/channel/WhatsApp_Image_2022-11-10_at_6.03.46_PM.jpeg" group-title="Generalistas" tvg-name="Canal B",Canal B
+https://ott1.hdlatam.tv/live/CanalB/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal J" tvg-logo="https://i.postimg.cc/j2hy8rJn/Canal-J.jpg" group-title="Generalistas" tvg-name="Canal J",Canal J
+http://191.97.60.193:10000/play/a04w/index.m3u8
+
+#EXTINF:-1 tvg-id="TeleLima" tvg-logo="https://pbs.twimg.com/media/FwOtdL0XoAAV01H?format=png&name=small" group-title="Generalistas" tvg-name="TeleLima",TeleLima
+http://191.97.60.193:10000/play/a020/index.m3u8
+
+#EXTINF:-1 tvg-id="Gamarra Channel" tvg-logo="https://yt3.ggpht.com/_5nCk-rEsNPQeXAHT_ZA6gx5D15x_QadepvUi--KmY6psR9n85GAYxyCuap4P2kDIDqOmvT5584=s88-c-k-c0x00ffffff-no-rj" group-title="Generalistas" tvg-name="Gamarra Channel",Gamarra Channel
+http://191.97.60.193:10000/play/a03i/index.m3u8
+
+#EXTINF:-1 tvg-id="Onda Digital Perú" tvg-logo="https://i.postimg.cc/63znYXx1/ondadigitalperu.jpg" group-title="Generalistas" tvg-name="Onda Digital Perú",Onda Digital Perú
+http://191.97.60.193:10000/play/a03l/index.m3u8
+
+#EXTINF:-1 tvg-id="Onda Digital TV" tvg-logo="https://i.postimg.cc/KzJYTWWt/ondadigitaltv.jpg" group-title="Generalistas" tvg-name="Onda Digital TV",Onda Digital TV
+http://191.97.60.193:10000/play/a03m/index.m3u8
+
+#EXTINF:-1 tvg-id="SEÑAL PERÚ" tvg-logo="https://i.postimg.cc/t7Qhb01M/SE-AL-PER.jpg" group-title="Generalistas" tvg-name="SEÑAL PERÚ",SEÑAL PERÚ
+https://livestream.perucast.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PERÚ CHANNEL" tvg-logo="https://i.postimg.cc/mZFvTfvF/peruchannel.jpg" group-title="Generalistas" tvg-name="PERÚ CHANNEL",PERÚ CHANNEL
+http://191.97.60.193:10000/play/a00u/index.m3u8
+
+#EXTINF:-1 tvg-id="PERÚ GOTV tvg-logo="https://i.postimg.cc/vmvCtqCC/PER-GOTV.jpg" group-title="Generalistas" tvg-name="PERÚ GOTV",PERÚ GOTV
+http://170.81.240.10:8000/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-id="nativa" tvg-logo="https://i.postimg.cc/3NX6zxY7/nativa.png" group-title="Generalistas" tvg-name="nativa",nativa
+http://170.81.240.10:8000/play/a00d/index.m3u8
+
+#EXTINF:-1 tvg-id="Identidad TV" tvg-logo="https://i.postimg.cc/J0Pn8XgD/identidadtv.png" group-title="Generalistas" tvg-name="Identidad TV",Identidad TV
+https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sin Tv" tvg-logo="https://i.postimg.cc/hv968QC8/sintv.png" group-title="Generalistas" tvg-name="Sin Tv",Sin Tv
+https://inliveserver.com:1936/19004/19004/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Like TV" tvg-logo="https://pbs.twimg.com/media/F6eCd9qWEAANnK5?format=png&name=240x240" group-title="Generalistas" tvg-name="Like TV",Like TV
+http://170.81.240.10:8000/play/a00g/index.m3u8
+
+#EXTINF:-1 tvg-id="AsiriTV" tvg-logo="https://i.postimg.cc/bwDm8J7D/asiritv.jpg" group-title="Generalistas" tvg-name="AsiriTV",AsiriTV
+http://191.97.60.193:10000/play/a06c/index.m3u8
+
+#EXTINF:-1 tvg-id="bhTV" tvg-logo="https://i.postimg.cc/cHqCZYn8/BHtv.png" group-title="Generalistas" tvg-name="bhTV",bhTV
+https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Doble C Televisión" tvg-logo="https://i.postimg.cc/kXJ81bQt/Doble-C-Televisi-n.jpg" group-title="Generalistas" tvg-name="Doble C Televisión",Doble C Televisión
+https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
+
+#EXTINF:-1 tvg-id="VAMISA" tvg-logo="https://i.postimg.cc/q7V4bZc8/vamisa.png" group-title="Generalistas" tvg-name="VAMISA",VAMISA
+https://tv.streamprivate.live:3101/live/vamisalive.m3u8
+
+#EXTINF:-1 tvg-id="Región TV" tvg-logo="https://i.postimg.cc/6qMM7twM/Regi-n-TV.jpg" group-title="Generalistas" tvg-name="Región TV",Región TV
+https://servilive.com:3757/live/regiontvlive.m3u8
+
+#EXTINF:-1 tvg-id="TV Peruanísima" tvg-logo="https://i.imgur.com/m50qAVY.png" group-title="Generalistas" tvg-name="TV Peruanísima",TV Peruanísima
+https://59ef525c24caa.streamlock.net/TVperuanisima/TVperuanisima/playlist.m3u8
+
+#EXTINF:-1 tvg-id="USIL TV" tvg-logo="https://i.postimg.cc/02D7MYvZ/usiltv.jpg" group-title="Generalistas" tvg-name="USIL TV",USIL TV
+https://per01-lim01.servidor.stream/usiltv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="USMP TV" tvg-logo="https://i.postimg.cc/B6Cf6xpg/usmptv.png" group-title="Generalistas" tvg-name="USMP TV",USMP TV
+http://191.97.60.193:10000/play/a00d/index.m3u8
+
+#EXTINF:-1 tvg-id="Diáspora TV" tvg-logo="https://i.postimg.cc/7hpCX5wf/Di-spora-TV.jpg" group-title="Generalistas" tvg-name="Diáspora TV",Diáspora TV
+https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8
+
+#EXTINF:-1 tvg-id="VeneTv" tvg-logo="https://i.postimg.cc/FsNh86NP/VeneTV.jpg" group-title="Generalistas" tvg-name="VeneTv",VeneTv
+http://170.81.240.10:8000/play/a00f/index.m3u8
+
+#EXTINF:-1 tvg-id="SazonTV" tvg-logo="https://i.postimg.cc/C1S8zNbm/SazonTV.jpg" group-title="Generalistas" tvg-name="SazonTV",SazonTV
+http://170.81.240.10:8000/play/a00e/index.m3u8
+
+#EXTINF:-1 tvg-id="Folklore TV" tvg-logo="https://i.postimg.cc/T209FH3j/Folklore-TV.png" group-title="Generalistas" tvg-name="Folklore TV",Folklore TV
+http://209.45.81.84:8000/play/a03c
