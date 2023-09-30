@@ -108,9 +108,6 @@ http://191.97.60.193:10000/play/a06c/index.m3u8
 #EXTINF:-1 tvg-id="bhTV" tvg-logo="https://i.postimg.cc/cHqCZYn8/BHtv.png" group-title="Generalistas" tvg-name="bhTV",bhTV
 https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Doble C Televisión" tvg-logo="https://i.postimg.cc/kXJ81bQt/Doble-C-Televisi-n.jpg" group-title="Generalistas" tvg-name="Doble C Televisión",Doble C Televisión
-https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
-
 #EXTINF:-1 tvg-id="VAMISA" tvg-logo="https://i.postimg.cc/q7V4bZc8/vamisa.png" group-title="Generalistas" tvg-name="VAMISA",VAMISA
 https://tv.streamprivate.live:3101/live/vamisalive.m3u8
 
