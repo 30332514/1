@@ -149,3 +149,192 @@ http://170.81.240.10:8000/play/a00e/index.m3u8
 
 #EXTINF:-1 tvg-id="Folklore TV" tvg-logo="https://i.postimg.cc/T209FH3j/Folklore-TV.png" group-title="Generalistas" tvg-name="Folklore TV",Folklore TV
 http://209.45.81.84:8000/play/a03c
+
+#EXTINF:-1 tvg-id="GOLTV" tvg-logo="https://i.postimg.cc/NFJRDKS6/GOLTV.jpg" group-title="Deportivos" tvg-name="GOLTV",GOLTV
+http://45.71.252.67:8000/play/a0nv/index.m3u8
+
+#EXTINF:-1 tvg-id="GOLPERU" tvg-logo="https://i.postimg.cc/Jz06rGsf/GOL-PERU.jpg" group-title="Deportivos" tvg-name="GOLPERU",GOLPERU
+http://190.116.90.43:8000/play/a012
+
+#EXTINF:-1 tvg-id="Movistar Deportes" tvg-logo="https://i.postimg.cc/kGCYqsSs/Movistar-Deportes.png" group-title="Deportivos" tvg-name="Movistar Deportes",Movistar Deportes
+http://190.116.90.43:8000/play/a00x
+
+#EXTINF:-1 tvg-id="LIGA 1 MAX" tvg-logo="https://i.postimg.cc/FR0mTPmV/LIGA-1-MAX.jpg" group-title="Deportivos" tvg-name="LIGA 1 MAX",LIGA 1 MAX
+http://209.45.81.84:8000/play/a00c
+
+#EXTINF:-1 tvg-id="Liga de Campeones" tvg-logo="https://i.postimg.cc/xd530P8C/Liga-de-Campeones.png" group-title="Deportivos" tvg-name="Liga de Campeones",Liga de Campeones
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/54531.ts
+
+#EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://i.postimg.cc/brS94F3d/DIRECTV-SPORTS.png" group-title="Deportivos" tvg-name="DSPORTS",DSPORTS
+http://tutv.online:8080/9mxee76p89/7dix695u5g/256901
+
+#EXTINF:-1 tvg-id="DSPORTS 2" tvg-logo="https://i.postimg.cc/g0crxL9K/DIRECTV-SPORTS-2.png" group-title="Deportivos" tvg-name="DSPORTS 2",DSPORTS 2
+http://tutv.online:8080/9mxee76p89/7dix695u5g/256902
+
+#EXTINF:-1 tvg-id="DSPORTS+" tvg-logo="https://i.postimg.cc/bwJKdqCt/DIRECTV-SPORTS.png" group-title="Deportivos" tvg-name="DSPORTS+",DSPORTS+
+http://tutv.online:8080/9mxee76p89/7dix695u5g/256903
+
+#EXTINF:-1 tvg-id="Claro Sports" tvg-logo="https://i.postimg.cc/026fz34V/Claro-Sports.jpg" group-title="Deportivos" tvg-name="Claro Sports",Claro Sports
+http://190.149.66.90:4000/play/a008/index.m3u8
+
+#EXTINF:-1 tvg-id="Claro Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest/scale-to-width-down/250?cb=20210423191014&path-prefix=es" group-title="Deportivos" tvg-name="Claro Sports 2",Claro Sports 2
+http://45.5.117.182:8000/play/a0e5/index.m3u8
+
+#EXTINF:-1 tvg-id="Tigo Sports" tvg-logo="https://i.postimg.cc/SxHTD4B2/Tigo-Sports.png" group-title="Deportivos" tvg-name="Tigo Sports",Tigo Sports
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Win Sports" tvg-logo="https://i.postimg.cc/hG1twrfc/Win-Sports.jpg" group-title="Deportivos" tvg-name="Win Sports",Win Sports
+http://181.119.67.75:16123/play/a041
+
+#EXTINF:-1 tvg-id="Win Sports+" tvg-logo="https://i.postimg.cc/9XbhfZDs/Win-Sports.png" group-title="Deportivos" tvg-name="Win Sports+",Win Sports+
+http://190.27.253.211:8000/play/a07g/index.m3u8
+
+#EXTINF:-1 tvg-id="BEIN SPORTS Ñ" tvg-logo="https://i.postimg.cc/XYtQfZFg/BEIN-SPORTS.png" group-title="Deportivos" tvg-name="BEIN SPORTS Ñ",BEIN SPORTS Ñ
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BEIN SPORTS EXTRA Ñ" tvg-logo="https://i.postimg.cc/8ccDjhcT/BEIN-SPORTS-EXTRA.jpg" group-title="Deportivos" tvg-name="BEIN SPORTS EXTRA Ñ",BEIN SPORTS EXTRA Ñ
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM" tvg-logo="https://i.postimg.cc/26j0DG98/FOX-SPORTS-PREMIUM.jpg" group-title="Deportivos" tvg-name="FOX SPORTS PREMIUM",FOX SPORTS PREMIUM
+http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FOX SPORTS 1" tvg-logo="https://i.postimg.cc/x80yLTDj/FOX-SPORTS.png" group-title="Deportivos" tvg-name="FOX SPORTS 1",FOX SPORTS 1
+http://45.71.252.67:8000/play/a0jh/index.m3u8
+
+#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-logo="https://i.postimg.cc/jjQDdcBB/FOX-SPORTS2.png" group-title="Deportivos" tvg-name="FOX SPORTS 2",FOX SPORTS 2
+http://190.116.90.43:8000/play/a00i
+
+#EXTINF:-1 tvg-id="FOX SPORTS 3" tvg-logo="https://i.postimg.cc/RFGn57y9/FOX-SPORTS3.jpg" group-title="Deportivos" tvg-name="FOX SPORTS 3",FOX SPORTS 3
+http://170.81.240.10:8000/play/a011/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.postimg.cc/43x5SQWv/ESPN.jpg" group-title="Deportivos" tvg-name="ESPN",ESPN
+http://190.116.90.43:8000/play/a00z
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://i.postimg.cc/26c8xrVF/ESPN2.png" group-title="Deportivos" tvg-name="ESPN 2",ESPN 2
+http://170.81.240.10:8000/play/a00y/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://i.postimg.cc/LXcfVtqV/ESPN3.jpg" group-title="Deportivos" tvg-name="ESPN 3",ESPN 3
+http://45.5.119.155:8000/play/a0kh/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://i.postimg.cc/1tyWsZRF/ESPN4.png" group-title="Deportivos" tvg-name="ESPN 4",ESPN 4
+http://170.81.240.10:8000/play/a010/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="https://i.postimg.cc/MKJD1QjD/ESPNEXTRA.jpg" group-title="Deportivos" tvg-name="ESPN EXTRA",ESPN EXTRA
+http://170.81.240.10:8000/play/a00z/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="https://i.postimg.cc/MKJD1QjD/ESPNEXTRA.jpg" group-title="Deportivos" tvg-name="ESPN EXTRA",ESPN EXTRA
+http://45.228.232.219:16000/play/a0me/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT SPORTS" tvg-logo="https://i.postimg.cc/vZ1n2Nv7/TNT-Sports.png" group-title="Deportivos" tvg-name="TNT SPORTS",TNT SPORTS
+http://177.53.153.21:8001/play/a01x/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT SPORTS 2" tvg-logo="https://i.postimg.cc/DwbWPb2B/TNT-Sports2.png" group-title="Deportivos" tvg-name="TNT SPORTS 2",TNT SPORTS 2
+http://45.71.252.67:8000/play/a0kz/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT SPORTS 3" tvg-logo="https://i.postimg.cc/N0qKJfFY/TNT-Sports3.png" group-title="Deportivos" tvg-name="TNT SPORTS 3",TNT SPORTS 3
+http://45.71.252.67:8000/play/a0k9/index.m3u8
+
+#EXTINF:-1 tvg-id="TITAN" tvg-logo="https://i.postimg.cc/qRmG03LM/TITAN.jpg" group-title="Deportivos" tvg-name="TITAN",TITAN
+http://191.97.60.193:10000/play/a04d/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV" tvg-logo="https://i.postimg.cc/1tRkTCRH/MTV.png" group-title="Musicales" tvg-name="MTV",MTV
+http://186.154.219.5:4022/play/a01w
+
+#EXTINF:-1 tvg-id="nickmusic" tvg-logo="https://i.postimg.cc/Tw41bryd/nickmusic.jpg" group-title="Musicales" tvg-name="nickmusic",nickmusic
+http://187.188.232.236:1021/play/a05k/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://i.postimg.cc/YCYjq96P/Nick.jpg" group-title="Infantiles" tvg-name="Nickelodeon",Nickelodeon
+http://138.59.177.34:8000/play/a06b/index.m3u8
+
+#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="https://i.postimg.cc/k4B2CyfQ/Nick-Jr.png" group-title="Infantiles" tvg-name="Nick Jr.",Nick Jr.
+http://138.59.177.34:8000/play/a024/index.m3u8
+
+#EXTINF:-1 tvg-id="Teen Nick" tvg-logo="https://i.postimg.cc/k4B2CyfQ/Nick-Jr.png" group-title="Infantiles" tvg-name=Teen Nick",Teen Nick
+http://161.132.194.88:7076/play/a0qp/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="https://i.postimg.cc/c4PdnmDk/Discovery-Kids.png" group-title="Infantiles" tvg-name="Discovery Kids",Discovery Kids
+http://190.116.90.43:8000/play/a00f
+
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/800px-2014_Disney_Channel_logo.svg.png" group-title="Infantiles" tvg-name="Disney Channel",Disney Channel
+http://181.119.67.75:16123/play/ch03
+
+#EXTINF:-1 tvg-id="Disney JR" tvg-logo="https://i.postimg.cc/mZpyszDy/Disney-JR.png" group-title="Infantiles" tvg-name="Disney JR",Disney JR
+http://190.116.90.43:8000/play/a00b
+
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://i.postimg.cc/0NY9xmKk/cartoonnetworklatino.png" group-title="Infantiles" tvg-name="Cartoon Network",Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://i.postimg.cc/9M6dRq1x/Cartoonito.png" group-title="Infantiles" tvg-name="Cartoonito",Cartoonito
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="FMH KIDS" tvg-logo="https://i.postimg.cc/mrbJV7pm/FMH-Kids.jpg" group-title="Infantiles" tvg-name="FMH KIDS",FMH KIDS
+http://191.97.60.193:10000/play/a02q/index.m3u8
+
+#EXTINF:-1 tvg-id="FUN BOX" tvg-logo="https://i.postimg.cc/QMdsVLDN/FUN-BOX.jpg" group-title="Infantiles" tvg-name="FUN BOX",FUN BOX
+http://191.97.60.193:10000/play/a02r/index.m3u8
+
+#EXTINF:-1 tvg-id="animotion" tvg-logo="https://i.postimg.cc/HkwXdh4k/animotion.jpg" group-title="Infantiles" tvg-name="animotion",animotion
+http://191.97.60.193:10000/play/a02n/index.m3u8
+
+#EXTINF:-1 tvg-id="tooncast" tvg-logo="https://i.postimg.cc/Y9z8YM12/tooncast.jpg" group-title="Infantiles" tvg-name="tooncast",tooncast
+http://45.5.117.182:8000/play/a0hm/index.m3u8
+
+#EXTINF:-1 tvg-id="ZooMoo" tvg-logo="https://i.postimg.cc/Pr9QcVxp/ZooMoo.png" group-title="Infantiles" tvg-name="ZooMoo",ZooMoo
+http://181.78.85.7:16123/play/ch04
+
+#EXTINF:-1 tvg-id="BabyTV" tvg-logo="https://i.postimg.cc/tCNVdr6G/BabyTV.jpg" group-title="Infantiles" tvg-name="BabyTV",BabyTV
+http://181.78.85.7:16123/play/ch01
+
+#EXTINF:-1 tvg-id="Canal Infantil" tvg-logo="https://i.postimg.cc/y8nQGXww/canal-Infantil.png" group-title="Infantiles" tvg-name="Canal Infantil",Canal Infantil
+http://191.97.60.193:10000/play/a02y/index.m3u8
+
+#EXTINF:-1 tvg-id="Tierra Mia" tvg-logo="https://i.postimg.cc/1R06hLh2/Tierra-Mia.jpg" group-title="Musicales" tvg-name="Tierra Mia",Tierra Mia
+http://170.81.240.10:8000/play/a00b/index.m3u8
+
+#EXTINF:-1 tvg-id="RITMO X" tvg-logo="https://i.postimg.cc/wMGDhGsc/RITMO-X.jpg" group-title="Musicales" tvg-name="RITMO X",RITMO X
+http://170.81.240.10:8000/play/a00o/index.m3u8
+
+#EXTINF:-1 tvg-id="Tumpis TV" tvg-logo="https://i.postimg.cc/zf4p2HfC/Tumpis-TV.jpg" group-title="Musicales" tvg-name="Tumpis TV",Tumpis TV
+https://servilive.com:3531/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="TOP Latino" tvg-logo="https://i.postimg.cc/P5yf99t9/toplatinotv.jpg" group-title="Musicales" tvg-name="TOP Latino",TOP Latino
+http://191.97.60.193:10000/play/a03d/index.m3u8
+
+#EXTINF:-1 tvg-id="Visión TV Música" tvg-logo="https://i.postimg.cc/hjdfksZm/visiontvmusica.png" group-title="Musicales" tvg-name="Visión TV Música",Visión TV Música
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/chunklist_w419649899.m3u8
+
+#EXTINF:-1 tvg-id="La Karibeña" tvg-logo="https://i.postimg.cc/CLPnfR8z/karibe-a.png" group-title="Musicales" tvg-name="La Karibeña",La Karibeña
+http://191.97.60.193:10000/play/a00c/index.m3u8
+
+#EXTINF:-1 tvg-id="Karavana Perú" tvg-logo="https://i.postimg.cc/mD6hCp8S/Karavana-Per.jpg" group-title="Musicales" tvg-name="Karavana Perú",La Karavana Perú
+http://170.81.240.10:8000/play/a00m/index.m3u8
+
+#EXTINF:-1 tvg-id="Tropical Moon" tvg-logo="https://i.postimg.cc/DZ5pYpWm/Tropical-Moon.jpg" group-title="Musicales" tvg-name="Tropical Moon",Tropical Moon
+http://170.81.240.10:8000/play/a00p/index.m3u8
+
+#EXTINF:-1 tvg-id="Lolly Kids" tvg-logo="https://i.postimg.cc/50LxjC61/Lolly-Kids.png" group-title="Musicales" tvg-name="Lolly Kids",Lolly Kids
+http://209.45.81.84:8000/play/a02a
+
+#EXTINF:-1 tvg-id="Retro Music TV" tvg-logo="https://i.postimg.cc/rwMpsMxC/retromusictelevision.png" group-title="Musicales" tvg-name="Retro Music TV",Retro Music TV
+https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w820613881.m3u8
+
+#EXTINF:-1 tvg-id="Retro Plus" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Musicales" tvg-name="Retro Plus",Retro Plus
+https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w2143141309.m3u8
+
+#EXTINF:-1 tvg-id="Retro Plus 2" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Musicales" tvg-name="Retro Plus 2",Retro Plus 2
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/chunklist_w898319813.m3u8
+
+#EXTINF:-1 tvg-id="Mimusica Reggaeton" tvg-logo="https://s3.vcdn.biz/static/f/5670663411/image.jpg" group-title="Musicales" tvg-name="Mimusica Reggaeton",Mimusica Reggaeton
+http://179.189.222.226:8000/play/ch53
+
+#EXTINF:-1 tvg-id="Mimusica Popular" tvg-logo="https://pbs.twimg.com/media/FfuliqvXoAEuTtS?format=png&name=240x240" group-title="Musicales" tvg-name="Mimusica Popular",Mimusica Popular
+http://179.189.222.226:8000/play/ch56
+
+#EXTINF:-1 tvg-id="Mimusica Salsa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYN00MSM-jF9_kKysfWxoAy1FugIKukUrsVCAkyIX-1HNAiu1mACouInmwYlPGsacFvQ&usqp=CAU" group-title="Musicales" tvg-name="Mimusica Salsa",Mimusica Salsa
+http://179.189.222.226:8000/play/ch55
+
+#EXTINF:-1 tvg-id="Mimusica Romántica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF3hIWJfpPueuL-xdOFKeX_QX75cWzWNDUmRaxjcNp4OmkT17HgpGwvuIIqyTRKHuA-w&usqp=CAU" group-title="Musicales" tvg-name="Mimusica Romántica",Mimusica Romántica
+http://179.189.222.226:8000/play/ch54
+
+#EXTINF:-1 tvg-id="Mimusica Perú" tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/Logo-Mimusica-Peru-Alpha-AOriginal-e1687136439515-1024x362.png" group-title="Musicales" tvg-name="Mimusica Perú",Mimusica Perú
+http://191.97.60.193:10000/play/a030/index.m3u8
