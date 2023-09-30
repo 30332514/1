@@ -99,14 +99,8 @@ https://livestream.perucast.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PERÚ CHANNEL" tvg-logo="https://i.postimg.cc/mZFvTfvF/peruchannel.jpg" group-title="Generalistas" tvg-name="PERÚ CHANNEL",PERÚ CHANNEL
 http://191.97.60.193:10000/play/a00u/index.m3u8
 
-#EXTINF:-1 tvg-id="PERÚ GOTV tvg-logo="https://i.postimg.cc/vmvCtqCC/PER-GOTV.jpg" group-title="Generalistas" tvg-name="PERÚ GOTV",PERÚ GOTV
-http://170.81.240.10:8000/play/a00i/index.m3u8
-
 #EXTINF:-1 tvg-id="nativa" tvg-logo="https://i.postimg.cc/3NX6zxY7/nativa.png" group-title="Generalistas" tvg-name="nativa",nativa
 http://170.81.240.10:8000/play/a00d/index.m3u8
-
-#EXTINF:-1 tvg-id="Identidad TV" tvg-logo="https://i.postimg.cc/J0Pn8XgD/identidadtv.png" group-title="Generalistas" tvg-name="Identidad TV",Identidad TV
-https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sin Tv" tvg-logo="https://i.postimg.cc/hv968QC8/sintv.png" group-title="Generalistas" tvg-name="Sin Tv",Sin Tv
 https://inliveserver.com:1936/19004/19004/playlist.m3u8
