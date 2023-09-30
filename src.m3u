@@ -363,6 +363,12 @@ http://161.132.194.88:7076/play/a0sv/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Home & Health" tvg-logo="https://i.postimg.cc/DfYVDf0x/Discovery-Home-Health.jpg" group-title="Generalistas" tvg-name="Discovery Home & Health",Discovery Home & Health
 http://170.81.240.10:8000/play/a01a/index.m3u8
 
+#EXTINF:-1 tvg-id="CREO TV" tvg-logo="https://i.postimg.cc/SQgfR8Kc/creotv.jpg" group-title="Generalistas" tvg-name="CREO TV",CREO TV
+http://191.97.60.193:10000/play/a03g/index.m3u8
+
+#EXTINF:-1 tvg-id="CREO MOVIE" tvg-logo="https://i.postimg.cc/PxCt3bpW/CREO-MOVIE.jpg" group-title="Generalistas" tvg-name="CREO MOVIE",CREO MOVIE
+http://191.97.60.193:10000/play/a03h/index.m3u8
+
 #EXTINF:-1 tvg-id="D película" tvg-logo="https://i.postimg.cc/nzHpKkfM/D-pel-cula.png" group-title="Películas" tvg-name="D película",D película
 http://181.78.85.7:16123/play/ch57
 
