@@ -102,12 +102,6 @@ http://191.97.60.193:10000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="nativa" tvg-logo="https://i.postimg.cc/3NX6zxY7/nativa.png" group-title="Generalistas" tvg-name="nativa",nativa
 http://170.81.240.10:8000/play/a00d/index.m3u8
 
-#EXTINF:-1 tvg-id="Sin Tv" tvg-logo="https://i.postimg.cc/hv968QC8/sintv.png" group-title="Generalistas" tvg-name="Sin Tv",Sin Tv
-https://inliveserver.com:1936/19004/19004/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Like TV" tvg-logo="https://pbs.twimg.com/media/F6eCd9qWEAANnK5?format=png&name=240x240" group-title="Generalistas" tvg-name="Like TV",Like TV
-http://170.81.240.10:8000/play/a00g/index.m3u8
-
 #EXTINF:-1 tvg-id="AsiriTV" tvg-logo="https://i.postimg.cc/bwDm8J7D/asiritv.jpg" group-title="Generalistas" tvg-name="AsiriTV",AsiriTV
 http://191.97.60.193:10000/play/a06c/index.m3u8
 
