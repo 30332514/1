@@ -1,19 +1,19 @@
 EXTM3U
 
 #EXTINF:-1 tvg-id="Latina tv" tvg-logo="https://i.postimg.cc/J055jRLP/latina.jpg" group-title="Generalistas" tvg-name="Latina TV",Latina TV
-http://tutv.online:8080/9mxee76p89/7dix695u5g/178234
+https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_4.m3u8?&
 
 #EXTINF:-1 tvg-id="America TV" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="Generalistas" tvg-name="America TV",America TV
 http://tutv.online:8080/9mxee76p89/7dix695u5g/178229
 
 #EXTINF:-1 tvg-id="Panamericana TV" tvg-logo="https://i.postimg.cc/mr3kLkNX/panamericanatv.jpg" group-title="Generalistas" tvg-name="Panamericana TV",Panamericana
-http://tutv.online:8080/9mxee76p89/7dix695u5g/256943
+https://cdn75.iblups.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="ATV" tvg-logo="https://i.postimg.cc/1XgtjdbK/atv.jpg" group-title="Generalistas" tvg-name="ATV",ATV
-http://tutv.online:8080/9mxee76p89/7dix695u5g/256925
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="ATV+" tvg-logo="https://i.postimg.cc/XYmdGr5n/atv.jpg" group-title="Generalistas" tvg-name="ATV+",ATV+
-http://tutv.online:8080/9mxee76p89/7dix695u5g/178230
+https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/ATVmas/ATVmas1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="ATV Sur" tvg-logo="https://i.postimg.cc/1z45XRnw/ATV-Sur.jpg" group-title="Generalistas" tvg-name="ATV Sur",ATV Sur
 https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/ATVSur/ATVSur1/chunks.m3u8
@@ -36,26 +36,17 @@ http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
 #EXTINF:-1 tvg-id="Cultura 24 TV" tvg-logo="https://i.postimg.cc/c4FgGqy9/cultura24tv.png" group-title="Generalistas" tvg-name="Cultura 24 TV",Cultura 24 TV
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CANAL N" tvg-logo="https://i.postimg.cc/L63qnBQF/canalN.jpg" group-title="Generalistas" tvg-name="CANAL N",CANAL N
-http://tutv.online:8080/9mxee76p89/7dix695u5g/178239
-
-#EXTINF:-1 tvg-id="Willax TV" tvg-logo="https://i.postimg.cc/2yyS7wpM/willaxtv.jpg" group-title="Generalistas" tvg-name="Willax TV",Willax TV
-http://tutv.online:8080/9mxee76p89/7dix695u5g/256924
-
 #EXTINF:-1 tvg-id="Exitosa TV" tvg-logo="https://i.postimg.cc/Gm20cgx6/exitosa.jpg" group-title="Generalistas" tvg-name="Exitosa TV",Exitosa TV
-http://tutv.online:8080/9mxee76p89/7dix695u5g/256940
+https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="nativa" tvg-logo="https://i.postimg.cc/3NX6zxY7/nativa.png" group-title="Generalistas" tvg-name="nativa",nativa
-http://tutv.online:8080/9mxee76p89/7dix695u5g/256942
-
-#EXTINF:-1 tvg-id="PERU MAGICO" tvg-logo="https://i.postimg.cc/mg74SXwZ/PERU-MAGICO.png" group-title="Generalistas" tvg-name="PERU MAGICO",PERU MAGICO
-http://tutv.online:8080/9mxee76p89/7dix695u5g/256945
+https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Conecta2TV" tvg-logo="https://i.postimg.cc/htyrk3hh/conecta2tv.jpg" group-title="Generalistas" tvg-name="Conecta2TV",Conecta2TV
 https://servilive.com:3114/live/liveulive.m3u8
 
 #EXTINF:-1 tvg-id="Radio San Borja TV" tvg-logo="https://i.postimg.cc/d1D3J1xx/radiosanborja.png" group-title="Musicales" tvg-name="Radio San Borja TV",Radio San Borja TV
-https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/chunklist_w1263895104.m3u8
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Identidad TV" tvg-logo="https://i.postimg.cc/J0Pn8XgD/identidadtv.png" group-title="Generalistas" tvg-name="Identidad TV",Identidad TV
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
@@ -67,7 +58,7 @@ https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m
 https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Cosmos" tvg-logo="https://i.postimg.cc/5tcB6Hc8/tvcosmos.jpg" group-title="Generalistas" tvg-name="TV Cosmos",TV Cosmos
-https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w1433474877.m3u8
+https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SOL TV" tvg-logo="https://i.postimg.cc/vTNP1hCH/soltv.png" group-title="Generalistas" tvg-name="SOL TV",SOL TV
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
@@ -115,7 +106,7 @@ https://live.obslivestream.com/viaaltomayomux/index.m3u8
 https://live.obslivestream.com/norselvatv/index.m3u8
 
 #EXTINF:-1 tvg-id="Uranio TV" tvg-logo="https://i.postimg.cc/8cyHzXM0/uraniotv.png" group-title="Generalistas" tvg-name="Uranio TV",Uranio TV
-https://live.obslivestream.com/uraniotv/tracks-v1a1/mono.m3u8
+https://live.obslivestream.com/uraniotv/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Super Canal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBbbpAhucUTGIFd_UnDjQGehvwk_loizSk7h_Oia3GXRkBhMj7WYy04cn0S9UV-63PdL4&usqp=CAU" group-title="Generalistas" tvg-name="Super Canal",Super Canal
 https://live.obslivestream.com/supercanal/index.m3u8
@@ -124,7 +115,7 @@ https://live.obslivestream.com/supercanal/index.m3u8
 https://live.obslivestream.com/telecolormux/index.m3u8
 
 #EXTINF:-1 tvg-id="Vinilos TV" tvg-logo="https://i.postimg.cc/NfjVjXSs/vinilostv.jpg" group-title="Musicales" tvg-name="Vinilos TV",Vinilos TV
-https://live.obslivestream.com/controversiatv/tracks-v1a1/mono.m3u8
+https://live.obslivestream.com/controversiatv/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Unitel" tvg-logo="https://pbs.twimg.com/profile_images/1329164413438468102/nLHM4UM7_400x400.png" group-title="Generalistas" tvg-name="Unitel",Unitel
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
