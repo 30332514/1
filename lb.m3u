@@ -1,0 +1,55 @@
+EXTM3U
+
+#EXTINF:-1 tvg-id="Latina tv" tvg-logo="https://i.postimg.cc/J055jRLP/latina.jpg" group-title="Generalistas" tvg-name="Latina TV",Latina TV
+https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8?uid=HiQb2GUwLPTBSbaYtwnDto6fBhEFw8Ya&sid=kJEuQqIdVkZk8jcPNdN46x7kAAnxlbIu&pid=McUeoLoNlRv2ytKrwt74pBKwjX8xZjAT&an=Media%20Stream%20TV%20en%20vivo&at=web-app&av=v5.2.377&ref=https%3A%2F%2Fwww.latina.pe%2F&res=703x395&without_cookies=false&listenerid=&dnt=true
+
+#EXTINF:-1 tvg-id="America TV" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="Generalistas" tvg-name="America TV",America TV
+https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=HiQb2GUwLPTBSbaYtwnDto6fBhEFw8Ya&sid=kJEuQqIdVkZk8jcPNdN46x7kAAnxlbIu&pid=qzouBGc9PPV7b4tOPC3l1Dd4JRmSWCaF&an=screen&at=web-app&av=v5.2.377&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&res=1519x854&without_cookies=false&listenerid=&dnt=true&access_token=Ru9xXkdHiYvFEHkVHjd0OTzKXI6UMljYmF707PRi69knsEOaLDbJHbdQ6fKYjQjvGkPWxnqlj2r
+
+#EXTINF:-1 tvg-id="Panamericana TV" tvg-logo="https://i.postimg.cc/mr3kLkNX/panamericanatv.jpg" group-title="Generalistas" tvg-name="Panamericana TV",Panamericana TV
+https://cdn75.iblups.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="ATV" tvg-logo="https://i.postimg.cc/1XgtjdbK/atv.jpg" group-title="Generalistas" tvg-name="ATV",ATV
+https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/ATVSur/ATVSur1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="ATV+" tvg-logo="https://i.postimg.cc/XYmdGr5n/atv.jpg" group-title="Generalistas" tvg-name="ATV+",ATV+
+https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/ATVmas/ATVmas1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="ATV Sur" tvg-logo="https://i.postimg.cc/1z45XRnw/ATV-Sur.jpg" group-title="Generalistas" tvg-name="ATV Sur",ATV Sur
+https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/ATVSur/ATVSur1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TV Perú" tvg-logo="https://i.postimg.cc/Jh85CgGf/TV-Per.png" group-title="Generalistas" tvg-name="TV Perú",TV Perú
+https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index.m3u8
+
+#EXTINF:-1 tvg-id="TV Perú Noticias" tvg-logo="https://i.postimg.cc/LXHDL7St/TV-Per-Noticias.jpg" group-title="Generalistas" tvg-name="TV Perú Noticias",TV Perú Noticias
+https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_3.m3u8
+
+#EXTINF:-1 tvg-id="TV Perú Internacional" tvg-logo="https://i.postimg.cc/yYNGwDwm/TV-Per-Internacional.png" group-title="Generalistas" tvg-name="TV Perú Internacional",TV Perú Internacional
+https://dy8y8vcruqztn.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/index_3.m3u8
+
+#EXTINF:-1 tvg-id="MINEDU IPTV CANAL 1" tvg-logo="https://i.postimg.cc/26fNdvq1/MINEDU-IPTV.png" group-title="Generalistas" tvg-name="MINEDU IPTV CANAL 1",MINEDU IPTV CANAL 1
+http://iptv.perueduca.pe:1935/canal1/canal11/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MINEDU IPTV CANAL 2" tvg-logo="https://i.postimg.cc/26fNdvq1/MINEDU-IPTV.png" group-title="Generalistas" tvg-name="MINEDU IPTV CANAL 2",MINEDU IPTV CANAL 2
+http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cultura 24 TV" tvg-logo="https://i.postimg.cc/c4FgGqy9/cultura24tv.png" group-title="Generalistas" tvg-name="Cultura 24 TV",Cultura 24 TV
+https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Willax TV" tvg-logo="https://i.postimg.cc/2yyS7wpM/willaxtv.jpg" group-title="Generalistas" tvg-name="Willax TV",Willax TV
+https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Conecta2TV" tvg-logo="https://i.postimg.cc/htyrk3hh/conecta2tv.jpg" group-title="Generalistas" tvg-name="Conecta2TV",Conecta2TV
+https://servilive.com:3114/live/liveulive.m3u8
+
+#EXTINF:-1 tvg-id="VIVATV" tvg-logo="https://i.postimg.cc/bvw5btSS/VIVATV.png" group-title="Generalistas" tvg-name="VIVATV",VIVATV
+https://live.obslivestream.com/vivatv/index.m3u8
+
+#EXTINF:-1 tvg-id="Genios HD" tvg-logo="https://i.postimg.cc/d1Trvrtb/genioshd.jpg" group-title="Generalistas" tvg-name="Genios HD",Genios HD
+https://live.obslivestream.com/geniostvmux/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Antares HD" tvg-logo="https://i.postimg.cc/QVLQ1mKc/antarestv.png" group-title="Generalistas" tvg-name="Antares HD",Antares HD
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Unitel" tvg-logo="https://i.postimg.cc/90dbXNKY/Unitel-TV.jpg" group-title="Generalistas" tvg-name="Unitel",Unitel
+https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
