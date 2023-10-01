@@ -61,7 +61,7 @@ https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/index.m3u8
 https://5790d294af2dc.streamlock.net/8134/8134/index.m3u8
 
 #EXTINF:-1 tvg-id="SOL TV" tvg-logo="https://i.postimg.cc/vTNP1hCH/soltv.png" group-title="Generalistas" tvg-name="SOL TV",SOL TV
-https://video03.logicahost.com.br/soltv/soltv/index.m3u8
+https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w1433474877.m3u8
 
 #EXTINF:-1 tvg-id="Oasis RTV" tvg-logo="https://i.postimg.cc/fyxRpYkk/Oasis-RTV.jpg" group-title="Generalistas" tvg-name="Oasis RTV",Oasis RTV
 https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
