@@ -45,7 +45,7 @@ http://190.116.90.43:8000/play/a00s
 #EXTINF:-1 tvg-id="TNT Novelas" tvg-logo="https://i.postimg.cc/W13gcqtD/TNT-NOVELAS.jpg" group-title="Películas" tvg-name="TNT Novelas",TNT Novelas
 http://190.102.139.241:8900/play/a11y/index.m3u8
 
-#EXTINF:-1 tvg-id="KANAL D DRAMA" tvg-logo="https://i.postimg.cc/j2hk5LRQ/Kanal-D-Drama.jpg" group-title="Novelas" tvg-name="KANAL D DRAMA",KANAL D DRAMA
+#EXTINF:-1 tvg-id="Kanal d Drama" tvg-logo="https://i.postimg.cc/j2hk5LRQ/Kanal-D-Drama.jpg" group-title="Novelas" tvg-name="Kanal d Drama",Kanal d Drama
 http://190.102.139.241:8900/play/a0o2/index.m3u8
 
 #EXTINF:-1 tvg-id="Pasiones" tvg-logo="https://i.postimg.cc/rszjG1SM/pasiones.png" group-title="Novelas" tvg-name="Pasiones",Pasiones
@@ -72,8 +72,53 @@ http://191.97.60.193:10000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://i.postimg.cc/pLPSvP3Y/TNT.jpg" group-title="Películas" tvg-name="TNT",TNT
 http://190.102.139.241:8900/play/a0my/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT SERIES" tvg-logo="https://i.postimg.cc/zGLgVhmJ/TNT-SERIES.png" group-title="Películas" tvg-name="TNT SERIES",TNT SERIES
+#EXTINF:-1 tvg-id="TNT Series" tvg-logo="https://i.postimg.cc/zGLgVhmJ/TNT-SERIES.png" group-title="Películas" tvg-name="TNT Series",TNT Series
 http://161.132.108.76:50001/play/a00y/index.m3u8
+
+#EXTINF:-1 tvg-id="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png" group-title="Películas" tvg-name="AMC",AMC
+http://190.102.139.241:8900/play/a0nz/index.m3u8
+
+#EXTINF:-1 tvg-id="Warner Channel" tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="Películas" tvg-name="Warner ChannelV",Warner Channel
+http://190.102.139.241:8900/play/a0su/index.m3u8
+
+#EXTINF:-1 tvg-id="Star Channel" tvg-logo="https://i.postimg.cc/TYsGHs0r/STAR-CHANNEL.jpg" group-title="Películas" tvg-name="Star Channel",Star Channel
+http://190.102.139.241:8900/play/a0xb/index.m3u8
+
+#EXTINF:-1 tvg-id="FX" tvg-logo="https://i.postimg.cc/fLY4PqYM/FX.png" group-title="Películas" tvg-name="FX",FX
+http://190.102.139.241:8900/play/a0np/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery ID" tvg-logo="https://i.postimg.cc/sXhnJhsG/Discovery-Channel-THEATHER.png" group-title="Documentales" tvg-name=Discovery ID",Discovery ID
+http://190.102.139.241:8900/play/a0vo/index.m3u8
+
+#EXTINF:-1 tvg-id="clover channel" tvg-logo="https://i.postimg.cc/3RdY3h1m/clover-channel.png" group-title="Películas" tvg-name="clover channel",clover channel
+http://190.102.139.241:8900/play/a0t1/index.m3u8
+
+#EXTINF:-1 tvg-id="Star TVE" tvg-logo="https://i.postimg.cc/Vks5htGm/Star-tve.jpg" group-title="Generalistas"" tvg-name="Star TVE",Star TVE
+http://191.97.60.193:10000/play/a02f/index.m3u8
+
+#EXTINF:-1 tvg-id="Space" tvg-logo="https://i.postimg.cc/0NNS5f6t/SPACE.jpg" group-title="Películas" tvg-name="Space",Space
+http://190.102.139.241:8900/play/a0sw/index.m3u8
+
+#EXTINF:-1 tvg-id="Paramount Network" tvg-logo="https://i.postimg.cc/jSLvDSy6/Paramount.jpg" group-title="Películas" tvg-name="Paramount Network",Paramount Network
+http://190.116.90.43:8000/play/a00o
+
+#EXTINF:-1 tvg-id="Film & Arts" tvg-logo="https://i.postimg.cc/9M9KSrvW/film-arts.jpg" group-title="Generalistas" tvg-name="Film & Arts",Film & Arts
+http://161.132.243.192:50001/play/a03z/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinecanal" tvg-logo="https://i.postimg.cc/mDgdTMkK/CINECANAL.jpg" group-title="Películas" tvg-name="Cinecanal"Cinecanal
+http://190.102.139.241:8900/play/a0ny/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="La Tele" tvg-logo="https://i.postimg.cc/T3SDTnH6/LaTele.png" group-title="Generalistas" tvg-name="La Tele",La Tele
 http://161.132.108.76:50001/play/a043/index.m3u8
@@ -867,9 +912,6 @@ http://499816947258321276.ot0711.xyz:80/play/vi428027/hdFucGwknR/321276.ts
 #EXTINF:-1 tvg-id="La 2" tvg-logo="https://i.postimg.cc/7LF42d7W/la2.png" group-title="Generalistas"" tvg-name="La 2",La 2
 http://499816947258321279.ot0711.xyz:80/play/vi428027/hdFucGwknR/321279.ts
 
-#EXTINF:-1 tvg-id="Star tve" tvg-logo="https://i.postimg.cc/Vks5htGm/Star-tve.jpg" group-title="Generalistas"" tvg-name="Star tve",Star tve
-http://191.97.60.193:10000/play/a02f/index.m3u8
-
 #EXTINF:-1 tvg-id="Antena 3" tvg-logo="https://i.postimg.cc/G3sQnqR1/Antena-3.jpg" group-title="Generalistas"" tvg-name="Antena 3",Antena 3
 http://499816947258321105.ot0711.xyz:80/play/vi428027/hdFucGwknR/321105.ts
 
@@ -923,9 +965,6 @@ http://190.102.139.241:8900/play/a0n6/index.m3u8
 
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-logo="https://i.postimg.cc/N0V2nTbK/distrito-comedia.jpg" group-title="Comedia" tvg-name="Distrito Comedia",Distrito Comedia
 http://161.132.108.76:50001/play/a04h/index.m3u8
-
-#EXTINF:-1 tvg-id="film & arts" tvg-logo="https://i.postimg.cc/9M9KSrvW/film-arts.jpg" group-title="Generalistas" tvg-name="film & arts",film & arts
-http://161.132.243.192:50001/play/a03z/index.m3u8
 
 #EXTINF:-1 tvg-id="HispanTV" tvg-logo="https://i.postimg.cc/rwq3kNwZ/hispantv.png" group-title="Informativos" tvg-name="HispanTV",HispanTV
 https://cdnlive.presstv.ir/cdnlive/smil:live.smil/chunklist_b644100_slen.m3u8
@@ -1031,9 +1070,6 @@ http://190.102.139.241:8900/play/a0nw/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery" tvg-logo="https://banner2.cleanpng.com/20180605/ecc/kisspng-discovery-channel-television-channel-television-do-5b16766f6e5735.463717211528198767452.jpg" group-title="Documentales" tvg-name="Discovery",Discovery
 http://190.116.90.43:8000/play/a00t
-
-#EXTINF:-1 tvg-id="Discovery ID" tvg-logo="https://i.postimg.cc/sXhnJhsG/Discovery-Channel-THEATHER.png" group-title="Documentales" tvg-name=Discovery ID",Discovery ID
-http://190.102.139.241:8900/play/a0vo/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery THEATHER" tvg-logo="https://i.postimg.cc/sXhnJhsG/Discovery-Channel-THEATHER.png" group-title="Documentales" tvg-name=Discovery THEATHER",Discovery THEATHER
 http://190.116.90.43:8000/play/a00g
@@ -1185,23 +1221,11 @@ http://190.102.139.241:8900/play/a0om/index.m3u8
 #EXTINF:-1 tvg-id="Europa Europa" tvg-logo="https://i.postimg.cc/CLrSCCLq/Europa-Europa.jpg" group-title="Películas" tvg-name="Europa Europa",Europa Europa
 http://45.186.252.17:8000/play/a0bl
 
-#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-logo="https://i.postimg.cc/TYsGHs0r/STAR-CHANNEL.jpg" group-title="Películas" tvg-name="STAR CHANNEL",STAR CHANNEL
-http://190.102.139.241:8900/play/a0xb/index.m3u8
-
-#EXTINF:-1 tvg-id="FX" tvg-logo="https://i.postimg.cc/fLY4PqYM/FX.png" group-title="Películas" tvg-name="FX",FX
-http://190.102.139.241:8900/play/a0np/index.m3u8
-
 #EXTINF:-1 tvg-id="A&E" tvg-logo="https://i.postimg.cc/FRhqVQ9X/A-E.png" group-title="Películas" tvg-name="A&E",A&E
 http://190.102.139.241:8900/play/a0ss/index.m3u8
 
-#EXTINF:-1 tvg-id="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png" group-title="Películas" tvg-name="AMC",AMC
-http://190.102.139.241:8900/play/a0nz/index.m3u8
-
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://i.postimg.cc/vTQDxy6V/AXN.png" group-title="Películas" tvg-name="AXN",AXN
 http://190.102.139.241:8900/play/a0sv/index.m3u8
-
-#EXTINF:-1 tvg-id="clover channel" tvg-logo="https://i.postimg.cc/3RdY3h1m/clover-channel.png" group-title="Películas" tvg-name="clover channel",clover channel
-http://190.102.139.241:8900/play/a0t1/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal Claro" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_wMka8ic6GW1I8vfkcLln4EVGxKvqesLkuFTuI=s900-c-k-c0x00ffffff-no-rj" group-title="Películas" tvg-name="Canal Claro",Canal Claro
 http://161.132.108.76:50001/play/a031/index.m3u8
@@ -1227,9 +1251,6 @@ http://191.97.60.193:10000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="FMH FAMILY" tvg-logo="https://i.postimg.cc/76qz5Z6G/FMH-Family.jpg" group-title="Películas" tvg-name="FMH FAMILY",FMH FAMILY
 http://191.97.60.193:10000/play/a02p/index.m3u8
 
-#EXTINF:-1 tvg-id="CINECANAL" tvg-logo="https://i.postimg.cc/mDgdTMkK/CINECANAL.jpg" group-title="Películas" tvg-name="CINECANAL",CINECANAL
-http://190.102.139.241:8900/play/a0ny/index.m3u8
-
 #EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://i.postimg.cc/HnLhSqL0/CINEMAX.jpg" group-title="Películas" tvg-name="CINEMAX",CINEMAX
 http://190.102.139.241:8900/play/a0n5/index.m3u8
 
@@ -1244,12 +1265,6 @@ http://190.116.90.43:8000/play/a00y
 
 #EXTINF:-1 tvg-id="GOLDEN EDGE" tvg-logo="https://i.postimg.cc/K831M4mF/GOLDEN-EDGE.jpg" group-title="Películas" tvg-name="GOLDEN EDGE",GOLDEN EDGE
 http://161.132.243.192:50001/play/a04a/index.m3u8
-
-#EXTINF:-1 tvg-id="Paramount" tvg-logo="https://i.postimg.cc/jSLvDSy6/Paramount.jpg" group-title="Películas" tvg-name="Paramount",Paramount
-http://190.116.90.43:8000/play/a00o
-
-#EXTINF:-1 tvg-id="Warner Brothers TV" tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="Películas" tvg-name="Warner Brothers TV",Warner Brothers TV
-http://190.102.139.241:8900/play/a0su/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.postimg.cc/8CvHq3tg/HBO.jpg" group-title="Películas" tvg-name="HBO",HBO
 http://190.116.90.43:8000/play/a007
@@ -1301,9 +1316,6 @@ http://190.102.139.241:8900/play/a0st/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY MOVIES" tvg-logo="https://i.postimg.cc/BbFV5X9K/SONY-MOVIES.png" group-title="Películas" tvg-name="SONY MOVIES",SONY MOVIES
 http://45.186.252.17:8000/play/a09u
-
-#EXTINF:-1 tvg-id="SPACE" tvg-logo="https://i.postimg.cc/0NNS5f6t/SPACE.jpg" group-title="Películas" tvg-name="SPACE",SPACE
-http://190.102.139.241:8900/play/a0sw/index.m3u8
 
 #EXTINF:-1 tvg-id="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="Películas" tvg-name="TCM",TCM
 http://190.102.139.241:8900/play/a0kj/index.m3u8
