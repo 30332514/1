@@ -141,9 +141,6 @@ http://191.97.60.193:10000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="Folklore TV" tvg-logo="https://i.postimg.cc/T209FH3j/Folklore-TV.png" group-title="Generalistas" tvg-name="Folklore TV",Folklore TV
 http://209.45.81.84:8000/play/a03c
 
-#EXTINF:-1 tvg-id="LIMA LIVE" tvg-logo="https://i.postimg.cc/HL8KCKRB/LIMA-LIVE.png" group-title="Generalistas" tvg-name="LIMA LIVE",LIMA LIVE
-https://vdo.grupolimalive.com:3245/stream/play.m3u8
-
 #EXTINF:-1 tvg-id="Central TV" tvg-logo="https://i.postimg.cc/GpqbQ4vy/Central-TV.jpg" group-title="Generalistas" tvg-name="Central TV",Central TV
 https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
