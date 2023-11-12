@@ -33,12 +33,6 @@ https://d5durwxb5vtvj.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/ind
 #EXTINF:-1 tvg-id="TV Perú Internacional" tvg-logo="https://i.postimg.cc/G2227QcG/TV-Per-Internacional.png" group-title="Generalistas" tvg-name="TV Perú Internacional",TV Perú Internacional
 https://d3h75ubfgjw298.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/index.m3u8
 
-#EXTINF:-1 tvg-id="MINEDU IPTV Canal 1" tvg-logo="https://i.postimg.cc/DySNcv7B/MINEDU-IPTV01.jpg" group-title="Generalistas" tvg-name="MINEDU IPTV Canal 1",MINEDU IPTV Canal 1
-http://iptv.perueduca.pe:1935/canal1/canal11/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MINEDU IPTV Canal 2" tvg-logo="https://i.postimg.cc/sgpwn1q9/MINEDU-IPTV02.jpg" group-title="Generalistas" tvg-name="MINEDU IPTV Canal 2",MINEDU IPTV Canal 2
-http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Cultura 24 TV" tvg-logo="https://i.postimg.cc/c4FgGqy9/cultura24tv.png" group-title="Generalistas" tvg-name="Cultura 24 TV",Cultura 24 TV
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 
@@ -47,9 +41,6 @@ http://190.102.139.241:8900/play/a0te/index.m3u8
 
 #EXTINF:-1 tvg-id="RPP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/RPP_TV_-_2017_logo.png" group-title="Generalistas" tvg-name="RPP TV",RPP TV
 http://161.132.108.76:50001/play/a02n/index.m3u8
-
-#EXTINF:-1 tvg-id="PBO TV" tvg-logo="https://i.postimg.cc/Pxt2fd3R/PBO.jpg" group-title="Generalistas" tvg-name="PBO TV",PBO TV
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=1425792395&_cdn_timestamp=1699664141&_cdn_token=05ba2de730b5c338426f756785a6d1427d2d8ff6
 
 #EXTINF:-1 tvg-id="Exitosa TV" tvg-logo="https://i.postimg.cc/Gm20cgx6/exitosa.jpg" group-title="Generalistas" tvg-name="Exitosa TV",Exitosa TV
 http://191.97.60.193:10000/play/a03c/index.m3u8
@@ -1340,6 +1331,3 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-moviesphere-samsung-samsungu
 
 #EXTINF:-1 tvg-id="TRAILERS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20221214T044904SQUARE.png_20221214044905.png" group-title="Entretenimiento" tvg-name="TRAILERS",TRAILERS
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinees-samsungspain/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Nasa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/265px-NASA_TV.svg.png" group-title="Cultura y Educación" tvg-name="Nasa TV",Nasa TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
