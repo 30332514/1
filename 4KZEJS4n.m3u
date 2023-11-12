@@ -16,7 +16,7 @@ http://190.102.139.241:8900/play/a0vv/index.m3u8
 http://190.102.139.241:8900/play/a0tc/index.m3u8
 
 #EXTINF:-1 tvg-id="TV Perú" tvg-logo="https://i.postimg.cc/G28B3QZr/TV-Per.png" group-title="Generalistas" tvg-name="TV Perú",TV Perú
-https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+https://d3dg184cfwiwms.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/index.m3u8
 
 #EXTINF:-1 tvg-id="CANAL N" tvg-logo="https://i.postimg.cc/L63qnBQF/canalN.jpg" group-title="Generalistas" tvg-name="CANAL N",CANAL N
 http://190.102.139.241:8900/play/a0te/index.m3u8
@@ -139,7 +139,7 @@ http://190.102.139.241:8900/play/a0nw/index.m3u8
 http://190.102.139.241:8900/play/a0x5/index.m3u8
 
 #EXTINF:-1 tvg-id="Ipe Perú" tvg-logo="https://i.postimg.cc/pVzG2tg9/ipe.png" group-title="Generalistas" tvg-name="Ipe Perú",Ipe Perú
-https://d3dg184cfwiwms.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/index.m3u8
+https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 
 #EXTINF:-1 tvg-id="Discovery THEATHER" tvg-logo="https://i.postimg.cc/sXhnJhsG/Discovery-Channel-THEATHER.png" group-title="Documentales" tvg-name=Discovery THEATHER",Discovery THEATHER
 http://190.102.139.241:8900/play/a0ne/index.m3u8
