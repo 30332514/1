@@ -69,18 +69,6 @@ https://servilive.com:3244/live/trivutvlive.m3u8
 #EXTINF:-1 tvg-id="Like TV" tvg-logo="https://i.postimg.cc/cLynY2YK/Like-TV.png" group-title="Generalistas" tvg-name="Like TV",Like TV
 https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
 
-#EXTINF:-1 tvg-id="Taurus TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/taurustv.png" group-title="Tauromaquia" tvg-name="Taurus TV",Taurus TV
-https://ott1.hdlatam.tv/live/taurustv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="La Tierra del Toro TV" tvg-logo="https://i.postimg.cc/k47FvYcp/La-Tierra-del-Toro.jpg" group-title="Tauromaquia" tvg-name="La Tierra del Toro TV",La Tierra del Toro TV
-https://media1.ultrik.com/live/torole1.m3u8
-
-#EXTINF:-1 tvg-id="Torolé TV" tvg-logo="https://i.ibb.co/hyJxtMw/logo-Torole.png" group-title="Tauromaquia" tvg-name="Torolé TV",Torolé TV
-http://257638747951539876.ot0711.xyz:80/play/vi428027/hdFucGwknR/539876.ts
-
-#EXTINF:-1 tvg-id="Mundotoro TV" tvg-logo="https://i.postimg.cc/3xHh12sv/Mundotoro-TV.png" group-title="Tauromaquia" tvg-name="Mundotoro TV",Mundotoro TV
-http://movilista.xyz:8080/live/321670230886694061/9991670230886694/55943.ts
-
 #EXTINF:-1 tvg-id="Movistar Plus" tvg-logo="https://i.postimg.cc/kGK1dPVr/Movistar-Plus.png" group-title="Generalistas" tvg-name="Movistar Plus",Movistar Plus
 http://190.102.139.241:8900/play/a0tc/index.m3u8
 
